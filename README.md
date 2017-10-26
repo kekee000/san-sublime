@@ -1,2 +1,6 @@
 # san-sublime
-san 的 sublime 插件
+
+
+San Syntax Highlight and Snippets for Sublime Text
+
+[see](https://github.com/ecomfe/san)

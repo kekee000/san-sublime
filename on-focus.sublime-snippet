@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+on-focus="${1:doFocus}(\$event)"
+]]></content>
+  <tabTrigger>on-focus</tabTrigger>
+  <scope>text.html</scope>
+  <description>San</description>
+</snippet>

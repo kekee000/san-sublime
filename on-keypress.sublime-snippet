@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+on-keypress="${1:doKeypress}(\$event)"
+]]></content>
+  <tabTrigger>on-keypress</tabTrigger>
+  <scope>text.html</scope>
+  <description>San</description>
+</snippet>

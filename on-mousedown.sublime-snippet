@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+on-mousedown="${1:doMousedown}(\$event)"
+]]></content>
+  <tabTrigger>on-mousedown</tabTrigger>
+  <scope>text.html</scope>
+  <description>San</description>
+</snippet>

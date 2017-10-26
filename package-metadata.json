@@ -1,0 +1,8 @@
+{
+    "sublime_text": "*",
+    "version": "1.0.0",
+    "platforms": ["*"],
+    "dependencies": [],
+    "description": "San Syntax Highlight and Snippets for Sublime Text",
+    "url": "https://github.com/kekee000/san-sublime"
+}

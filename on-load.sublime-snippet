@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+on-load="${1:doLoad}(\$event)"
+]]></content>
+  <tabTrigger>on-load</tabTrigger>
+  <scope>text.html</scope>
+  <description>San</description>
+</snippet>

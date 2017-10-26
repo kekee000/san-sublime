@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+s-elif="${1}"
+]]></content>
+    <tabTrigger>s-elif</tabTrigger>
+    <scope>text.html</scope>
+  <description>San</description>
+</snippet>

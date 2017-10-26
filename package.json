@@ -1,0 +1,25 @@
+{
+  "name": "san-sublime",
+  "version": "1.0.0",
+  "description": "San Syntax Highlight and Snippets for Sublime Text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kekee000/san-sublime.git"
+  },
+  "keywords": [
+    "javascript",
+    "sublime",
+    "san",
+    "snippets"
+  ],
+  "author": "kekee000",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kekee000/san-sublime/issues"
+  },
+  "homepage": "https://github.com/kekee000/san-sublime#readme"
+}

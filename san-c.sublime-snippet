@@ -1,0 +1,28 @@
+<snippet>
+	<content><![CDATA[
+<template>
+    <div></div>
+</template>
+
+<script>
+export default {
+    components: {
+    },
+    initData() {
+        return {
+        };
+    },
+    attached() {
+    },
+    computed: {
+    }
+};
+</script>
+
+<style lang="stylus">
+</style>
+]]></content>
+	<tabTrigger>san:c</tabTrigger>
+	<scope>text.html</scope>
+  <description>San Component</description>
+</snippet>

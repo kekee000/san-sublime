@@ -1,0 +1,14 @@
+{
+    "scope": "source.js",
+
+    "completions": [
+        { "trigger": "computed", "contents": "computed: {$0}" },
+        { "trigger": "components", "contents": "components: {$0}" },
+        { "trigger": "inited", "contents": "inited() {$0}" },
+        { "trigger": "created", "contents": "created() {$0}" },
+        { "trigger": "disposed", "contents": "disposed() {$0}" },
+        { "trigger": "initData", "contents": "initData() {$0}" },
+        { "trigger": "import", "contents": "import $1 from '$0';" },
+        { "trigger": "require", "contents": "require('$0');" }
+    ]
+}

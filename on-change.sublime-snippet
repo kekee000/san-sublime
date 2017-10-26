@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+on-change="${1:doChange}(\$event)"
+]]></content>
+  <tabTrigger>on-change</tabTrigger>
+  <scope>text.html</scope>
+  <description>San</description>
+</snippet>

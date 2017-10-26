@@ -1,0 +1,30 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * @file ${0:$TM_FILENAME}
+ * @author ${1:author}
+ */
+
+import san, {DataTypes} from 'san';
+
+export default san.defineComponent({
+    dataTypes: {
+        name: DataTypes.string
+    },
+    template: `
+        <div></div>
+    `,
+    initData() {
+        return {
+            name: 'san-component'
+        };
+    },
+    attached() {
+    }
+});
+
+]]></content>
+    <tabTrigger>san:d</tabTrigger>
+    <scope>source.js</scope>
+  <description>San component</description>
+</snippet>

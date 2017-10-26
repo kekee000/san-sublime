@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+s-for="${1:item} in ${2:items}"
+]]></content>
+    <tabTrigger>s-for</tabTrigger>
+    <scope>text.html</scope>
+  <description>San</description>
+</snippet>

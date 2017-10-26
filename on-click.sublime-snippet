@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+on-click="${1:doClick}(\$event)"
+]]></content>
+  <tabTrigger>on-click</tabTrigger>
+  <scope>text.html</scope>
+  <description>San</description>
+</snippet>

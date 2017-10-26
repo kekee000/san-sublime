@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+on-keyup="${1:doKeyup}(\$event)"
+]]></content>
+  <tabTrigger>on-keyup</tabTrigger>
+  <scope>text.html</scope>
+  <description>San</description>
+</snippet>

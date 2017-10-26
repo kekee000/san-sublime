@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+s-if="${1}"
+]]></content>
+  <tabTrigger>s-if</tabTrigger>
+  <scope>text.html</scope>
+  <description>San</description>
+</snippet>
