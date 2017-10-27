@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+on-input="${1:doInput}(\$event)"
+]]></content>
+  <tabTrigger>on-input</tabTrigger>
+  <scope>text.html</scope>
+  <description>San</description>
+</snippet>

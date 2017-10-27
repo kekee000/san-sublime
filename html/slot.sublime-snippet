@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+slot="${1}"
+]]></content>
+    <tabTrigger>slot</tabTrigger>
+    <scope>text.html</scope>
+  <description>San</description>
+</snippet>

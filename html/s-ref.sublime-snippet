@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+s-ref="${1}"
+]]></content>
+  <tabTrigger>s-ref</tabTrigger>
+  <scope>text.html</scope>
+  <description>San</description>
+</snippet>

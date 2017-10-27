@@ -1,6 +1,6 @@
 {
   "name": "san-sublime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "San Syntax Highlight and Snippets for Sublime Text",
   "main": "index.js",
   "scripts": {

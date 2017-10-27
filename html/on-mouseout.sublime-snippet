@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+on-mouseout="${1:doMouseout}(\$event)"
+]]></content>
+  <tabTrigger>on-mouseout</tabTrigger>
+  <scope>text.html</scope>
+  <description>San</description>
+</snippet>

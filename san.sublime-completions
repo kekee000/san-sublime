@@ -3,12 +3,23 @@
 
     "completions": [
         { "trigger": "computed", "contents": "computed: {$0}" },
-        { "trigger": "components", "contents": "components: {$0}" },
+        { "trigger": "messages", "contents": "messages: {$0}" },
+        { "trigger": "compiled", "contents": "compiled: {$0}" },
         { "trigger": "inited", "contents": "inited() {$0}" },
         { "trigger": "created", "contents": "created() {$0}" },
+        { "trigger": "attached", "contents": "attached() {$0}" },
+        { "trigger": "detached", "contents": "detached() {$0}" },
+        { "trigger": "updated", "contents": "updated() {$0}" },
         { "trigger": "disposed", "contents": "disposed() {$0}" },
+        { "trigger": "components", "contents": "components: {$0}" },
         { "trigger": "initData", "contents": "initData() {$0}" },
-        { "trigger": "import", "contents": "import $1 from '$0';" },
-        { "trigger": "require", "contents": "require('$0');" }
+        { "trigger": "import", "contents": "import ${1:module} from '${0:package}';" },
+        { "trigger": "require", "contents": "require('${0:package}');" },
+        { "trigger": "san-router", "contents": "import \\{${0:router}\\} from 'san-router';" },
+        { "trigger": "san-store", "contents": "import \\{${1:store}, ${0:connect}\\} from 'san-store';" },
+        { "trigger": "san-mui", "contents": "import \\{${0:Component}\\} from 'san-mui';" },
+        { "trigger": "san-update", "contents": "import \\{update\\} from 'san-update';$0" },
+        { "trigger": "this.ref", "contents": "this.ref('$0')" },
+        { "trigger": "this.dispatch", "contents": "this.dispatch('$0')" }
     ]
 }

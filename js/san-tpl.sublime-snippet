@@ -22,7 +22,7 @@ export default {
 <style lang="stylus">
 </style>
 ]]></content>
-	<tabTrigger>san:c</tabTrigger>
+	<tabTrigger>san:tpl</tabTrigger>
 	<scope>text.html</scope>
-  <description>San Component</description>
+  <description>San</description>
 </snippet>

@@ -3,7 +3,7 @@
 name: San Component
 scopeName: text.html.san
 fileTypes: [san]
-uuid: 5512c10d-4cc5-434c-b8fc-53b912f55ab4
+uuid: 5512c10d-4cc5-434c-b8fc-53b812f55ab4
 
 patterns:
 - include: '#san-interpolations'

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+on-error="${1:doError}(\$event)"
+]]></content>
+  <tabTrigger>on-error</tabTrigger>
+  <scope>text.html</scope>
+  <description>San</description>
+</snippet>

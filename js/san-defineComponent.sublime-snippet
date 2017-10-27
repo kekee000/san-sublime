@@ -24,7 +24,7 @@ export default san.defineComponent({
 });
 
 ]]></content>
-    <tabTrigger>san:d</tabTrigger>
+    <tabTrigger>san.defineComponent</tabTrigger>
     <scope>source.js</scope>
-  <description>San component</description>
+  <description>San</description>
 </snippet>

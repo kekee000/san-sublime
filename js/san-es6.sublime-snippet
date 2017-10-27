@@ -1,0 +1,33 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * @file ${0:$TM_FILENAME}
+ * @author ${1:author}
+ */
+
+import {Component} from 'san';
+
+export default class ${2:ComponentName} extends Component {
+
+    static template = `<div></div>`;
+
+    static computed = {
+    };
+
+    static dataTypes = {
+        type: DataTypes.string,
+        disabled: DataTypes.bool
+    };
+
+    initData() {
+        return {
+            type: 'component'
+        };
+    }
+}
+
+]]></content>
+    <tabTrigger>san:es6</tabTrigger>
+    <scope>source.js</scope>
+  <description>San</description>
+</snippet>

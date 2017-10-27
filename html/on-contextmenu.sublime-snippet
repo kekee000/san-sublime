@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+on-contextmenu="${1:doContextmenu}(\$event)"
+]]></content>
+  <tabTrigger>on-contextmenu</tabTrigger>
+  <scope>text.html</scope>
+  <description>San</description>
+</snippet>
